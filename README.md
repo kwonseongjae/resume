@@ -163,7 +163,7 @@
 | 기간 | 내용 | 비고 |
 |---|---|---|
 | ~2023 | **상명대학교** 컴퓨터과학 전공 (졸업) | 캡스톤 *Coin ATS* 🏆 |
-| — | **포스코 청년 AI·빅데이터 아카데미** 21기 수료 | 프로젝트 우수상 🏆 |
+| 2024 | **포스코 청년 AI·빅데이터 아카데미** 21기 수료 | 프로젝트 우수상 🏆 |
 
 ---
 
@@ -174,6 +174,19 @@
 | 🏆 수상 | **캡스톤디자인 경진대회 수상** — *Coin ATS* (Python + Upbit 암호화폐 자동매매, 상명대) |
 | 🏆 수상 | **프로젝트 우수상** — 포스코 청년 AI·빅데이터 아카데미 21기 수료 프로젝트 |
 | 📜 자격증 | **ADsP** (데이터분석 준전문가) |
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kwonseongjae&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwonseongjae&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kwonseongjae&theme=radical&hide_border=true" height="165"/>
+
+</div>
 
 ---
 
