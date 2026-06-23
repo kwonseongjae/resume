@@ -1,109 +1,182 @@
-# 권성재 (Seongjae Kwon)
-**AI Engineer · AI 연구원**
+<div align="center">
 
-📧 kwonseongjae0314@gmail.com · 📱 [연락처 입력]
-🔗 GitHub: github.com/kwonseongjae · 🌐 Tech Blog: jack-0314.tistory.com
+# 권성재 · Seongjae Kwon
 
-> **타겟 직무: AI 엔지니어 (ML/LLM Engineer)**
+### AI Engineer · AI 연구원
 
----
+데모가 아니라 **장애에 견디는 시스템**을 만드는 3년차 AI 엔지니어
+*Computer Vision · LLM · 프로덕션 자동화*
 
-## 한 줄 소개 (Summary)
+<a href="mailto:kwonseongjae0314@gmail.com"><img src="https://img.shields.io/badge/Email-kwonseongjae0314@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/kwonseongjae"><img src="https://img.shields.io/badge/GitHub-kwonseongjae-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://jack-0314.tistory.com"><img src="https://img.shields.io/badge/Tech_Blog-jack--0314-FF5722?style=flat-square&logo=tistory&logoColor=white"/></a>
 
-**연구에서 멈추지 않고 프로덕션까지 만드는 3년차 AI 엔지니어.**
-컴퓨터비전(SAM2 실시간 세그멘테이션)부터 LLM 기반 자동화 시스템까지, **AI 모델을 실제 제품·서비스에 통합하고 안정적으로 운영**한 경험이 있습니다. "동작하는 데모"가 아니라 **장애에 견디는 시스템**을 만드는 데 강점이 있습니다.
-
----
-
-## 핵심 역량 (Skills)
-
-- **Languages:** Python, C, SQL
-- **AI / ML:** PyTorch, TensorFlow, scikit-learn · **Computer Vision** (SAM2, 실시간 추론) · **LLM 통합** (Google Gemini, OpenAI GPT·Vision), 프롬프트 엔지니어링
-- **Backend / Web:** FastAPI, SQLAlchemy(ORM), MySQL, SQLite, Jinja2, Selenium, APScheduler, asyncio
-- **Engineering:** TDD(Pytest), Git, Linux/WSL, REST API, MQTT, 내구성 큐·자가복구 설계
-- **Data:** 데이터 분석(ADsP), 데이터 파이프라인
+</div>
 
 ---
 
-## 경력 (Work Experience)
+## 🧭 About
 
-### 베이직테크 — AI 연구원
-**2024.06 ~ 재직 중 (만 2년, 3년차)**
+> **"AI 모델을 실제 제품으로 만들고, 사람 없이 안 죽게 운영한다."**
 
-#### 실시간 크로마키 시스템 (SAM2 기반 Real-Time Segmentation)
-> Meta SAM2를 활용한 실시간 객체 분할로 **크로마키 배경판 없이도 크로마키 합성**을 구현
-- Segment Anything Model 2(SAM2)를 실시간 추론 파이프라인에 적용, 실시간 통신으로 객체를 인식하고 크로마키 컬러(RGB 0,175,57)를 합성
-- **GPU·모델별 추론 속도를 벤치마크**하여 실시간 처리 가능한 구성 도출
-- PyTorch 기반 CV 모델을 실서비스 시나리오(라이브 영상)에 통합
-- `Python · PyTorch · SAM2 · Real-Time Inference · GPU`
+컴퓨터비전(SAM2 실시간 세그멘테이션)부터 LLM 기반 자동화 SaaS까지, 연구에서 멈추지 않고 **설계 → 구현 → 배포 → 24/7 운영**까지 직접 책임진 경험이 있습니다. 워치독 같은 땜빵이 아니라 **버그 클래스 자체를 제거하는 설계**로 신뢰성을 만듭니다.
 
-#### 디지털 사이니지 광고 통합 관리 플랫폼 (Advertise Platform)
-> 광고주가 퍼블리셔(디스플레이 기기)를 선택해 광고 캠페인을 예약·관리하는 **CMS 웹 서비스**를 단독 풀스택 구현
-- **프론트엔드 전체** — 8개 페이지 UI/UX 설계·구현 (Jinja2 + Vanilla JS)
-- **백엔드** — 인증/세션(자동 만료), 퍼블리셔·스크린·디바이스 CRUD, 광고 예약·슬롯 관리, 소재 업로드(Google Drive 연동), 관리자 심사 기능, 네이버 주소 검색 API 연동
-- **데이터베이스** — SQLAlchemy ORM + MySQL, 9개 테이블 설계·연동
-- `Python · FastAPI · SQLAlchemy · MySQL · Jinja2 · MQTT(연동)`
+| | |
+|---|---|
+| 🎯 **목표 직무** | AI Engineer / ML·LLM Engineer |
+| 🏢 **현재** | 베이직테크 AI 연구원 (2024.06~, 만 2년차) |
+| 🎓 **학력** | 상명대학교 컴퓨터과학 (2023 졸업) |
+| 🌱 **관심** | LLM 애플리케이션, CV 실시간 추론, 프로덕션 신뢰성 |
 
 ---
 
-## 개인 프로젝트 (Side Projects)
+## 🛠 Tech Stack
 
-### 🤖 AI 블로그 자동화 시스템 — 무인 콘텐츠 생성·발행 플랫폼
-**개인 프로젝트 · 2026 · 단독 개발·운영**
-🔗 github.com/kwonseongjae/ai-blog-automation · 🟢 jack-0314.tistory.com (라이브 운영 중)
+**Languages**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-API가 종료된 플랫폼(Tistory)에 **사람 개입 없이 매일 콘텐츠를 생성·발행하는 시스템**을 단독 설계·구현·운영.
+**AI / ML**
+<br>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SAM2](https://img.shields.io/badge/SAM2-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-- **LLM 콘텐츠 파이프라인** — Gemini로 검색 의도 기반 글 자동 생성(검색어 타겟팅·SEO 최적화), 품질 게이트로 미달 콘텐츠 자동 필터·재생성
-- **브라우저 자동화 발행 + Vision LLM** — undetected-chromedriver로 웹 에디터 제어, 봇 탐지(이미지 캡차)를 **Gemini/GPT Vision으로 자동 해결**
-- **신뢰성 엔지니어링** — 워치독 땜빵 대신 **버그 클래스 제거 설계**: 1회용 임시 프로필(공유 상태 충돌 제거), 하드 타임아웃·자가복구, **내구성 발행 큐**(enqueue/worker·지수 백오프·dead-letter), 멱등 가드(정확히 한 번 발행)
-- **품질 관리** — TDD(Pytest)로 핵심 로직·도메인 규칙을 테스트로 기계화
-- **성과** — 매일 5건 자동 발행을 **무인으로 라이브 운영**
-- `Python · FastAPI · Selenium · Gemini/OpenAI · APScheduler · Pytest`
+**Backend / Infra**
+<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-### 🎬 YouTube Shorts 자동화 파이프라인 + SaaS 플랫폼
-**개인 프로젝트 · 단독 개발·운영**
-🔗 github.com/kwonseongjae/youtube-shorts-automation
-
-Reddit에서 바이럴 영상을 수집해 **AI로 한국어 Shorts를 자동 생성·업로드**하고 채널 분석까지 자동화한 **풀스택 SaaS 시스템**.
-
-- **AI 영상 생성 파이프라인** — 수집한 클립에 AI가 한국어 스크립트·TTS·BGM·자막을 입혀 Shorts로 자동 편집·업로드
-- **분산 작업 처리 아키텍처** — FastAPI(Web UI) + **Celery Worker**(파이프라인) + **Celery Beat**(스케줄러), Nginx(SSL)·Docker Compose로 컨테이너 배포, Alembic DB 마이그레이션
-- **완전 자동 스케줄 운영** — 매일 영상 수집 / 매주 Shorts 생성·업로드 / 주간 채널 분석 리포트(조회수·예상수익·증감)를 **텔레그램으로 자동 보고**
-- **운영 결과** — Shorts **53개 업로드**, 영상 누적 **69개 생성**, 소스 클립 **119개** 처리
-- `Python · FastAPI · Celery · Docker · Nginx · Alembic · YouTube API`
-
----
-
-## 학력 (Education)
-
-**상명대학교 — 컴퓨터과학 전공**  ·  2023년 졸업
-
-- **캡스톤디자인 — Coin ATS (코인 자동매매 시스템)** 🏆 *캡스톤디자인 경진대회 수상*
-  Python + Upbit API 기반 암호화폐 자동매매 시스템 (팀 프로젝트)
-  🔗 github.com/woosook0127/Coin_ATS
+**Tools**
+<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 ---
 
-## 교육 / 부트캠프 (Training)
+## 💼 Work Experience
 
-**포스코 청년 AI·빅데이터 아카데미 21기 수료** 🏆 *수료 프로젝트 우수상*
-- AI·빅데이터 실무 교육 과정 이수 (데이터 분석·머신러닝·프로젝트)
-- **프로젝트 우수상** 수상 — 팀 프로젝트 *(시연영상·발표자료 보유)*
+### 🏢 베이직테크 — AI 연구원
+`2024.06 ~ 재직 중` · `만 2년, 3년차`
+
+<table>
+<tr><td width="50%" valign="top">
+
+#### 🎥 실시간 크로마키 (SAM2)
+**Meta SAM2 기반 실시간 객체 분할로 크로마키 배경판 없이 합성**
+
+- SAM2의 streaming memory 구조를 실시간 추론 파이프라인에 적용, points/bbox 프롬프트로 객체 인식
+- 인식 영역 외부를 크로마키 컬러 **RGB(0,175,57)** 로 실시간 합성
+- **GPU·모델별 추론 속도(FPS) 벤치마크**로 실시간 처리 가능 구성 도출
+
+`PyTorch` `SAM2` `Real-Time Inference` `CV`
+
+</td><td width="50%" valign="top">
+
+#### 📺 디지털 사이니지 광고 CMS
+**광고주가 디스플레이를 골라 캠페인을 예약·관리하는 웹 서비스 풀스택 단독 구현**
+
+- **프론트** 8개 페이지 UI/UX (Jinja2 + Vanilla JS)
+- **백엔드** 인증·세션, 퍼블리셔/디바이스 CRUD, 광고 예약·슬롯, 소재 업로드(Google Drive), 관리자 심사, 네이버 주소 API
+- **DB** SQLAlchemy ORM + MySQL 9개 테이블
+
+`FastAPI` `SQLAlchemy` `MySQL` `MQTT`
+
+</td></tr>
+</table>
 
 ---
 
-## 수상 (Awards)
+## 🚀 Featured Projects
 
-- 🏆 **캡스톤디자인 경진대회 수상** — Coin ATS (암호화폐 자동매매 시스템, 상명대)
-- 🏆 **프로젝트 우수상** — 포스코 청년 AI·빅데이터 아카데미 21기 수료 프로젝트
+### 🤖 AI 블로그 자동화 시스템
+> API가 사라진 Tistory에 **사람 개입 없이 매일 콘텐츠를 생성·발행하는 무인 시스템**
+> [`github.com/kwonseongjae/ai-blog-automation`](https://github.com/kwonseongjae/ai-blog-automation) · 🟢 [라이브 블로그](https://jack-0314.tistory.com) · 📘 [엔지니어링 전자책](https://kwonseongjae.github.io/ebook-landing/)
+
+```
+수집/생성(LLM) → SEO → 브라우저 발행 → 색인 신청 → 운영·모니터링
+   Gemini          스니펫    Selenium+Vision      구글/네이버    스케줄·큐·알림
+```
+
+**핵심 — 자동 블로그가 멈추는 지점을 "구조적으로" 제거**
+
+| 멈춤 지점 | 구조적 해결 |
+|---|---|
+| 세션 만료 → 2FA 루프 | 암호화 쿠키 저장소 + 세션 keepalive로 **재로그인 회피** |
+| 봇 탐지(이미지 캡차) | **Vision LLM(Gemini/GPT)으로 자동 해결** |
+| 프로필 락 충돌 | **1회용 임시 프로필**로 공유 상태 버그 클래스 제거 |
+| 발행 중 무한 멈춤 | 하드 타임아웃 + 워치독 **자가복구** |
+| 중복 발행 | **멱등 가드** (정확히 한 번 발행) |
+| 발행 유실 | **내구성 큐** (enqueue/worker·지수 백오프·dead-letter) |
+
+- **성과** — 매일 5건 자동 발행을 **무인으로 라이브 운영**, TDD(Pytest)로 핵심 로직·도메인 규칙 회귀 방지
+
+`Python` `FastAPI` `Selenium` `Gemini/OpenAI` `APScheduler` `Pytest`
+
+<br>
+
+### 🎬 YouTube Shorts 자동화 + SaaS 플랫폼
+> Reddit 바이럴 영상을 수집해 **AI로 한국어 Shorts를 자동 생성·업로드**하고 채널 분석까지 자동화한 풀스택 SaaS
+> [`github.com/kwonseongjae/youtube-shorts-automation`](https://github.com/kwonseongjae/youtube-shorts-automation)
+
+```
+                 Nginx (SSL/HTTPS)
+                       │
+        ┌──────────────┼──────────────┐
+   FastAPI         Celery Worker    Celery Beat
+   (Web UI)        (영상 파이프라인)   (스케줄러)
+```
+
+**영상 생성 파이프라인** — 클립 수집 → AI 한국어 스크립트 → **TTS·BGM·자막** 합성 → Shorts 자동 편집 → 업로드
+
+**자동 스케줄 운영**
+- 📥 매일 — Reddit 바이럴 영상 수집
+- 🎞 매주 — Shorts 생성·업로드
+- 📊 주간 — 채널 분석 리포트(조회수·예상수익·증감)를 **텔레그램 자동 보고**
+
+<div align="center">
+
+| 📤 Shorts 업로드 | 🎞 영상 생성 | 📦 소스 클립 |
+|:---:|:---:|:---:|
+| **53개** | **69개** | **119개** |
+
+</div>
+
+`Python` `FastAPI` `Celery` `Docker` `Nginx` `Alembic` `YouTube API`
 
 ---
 
-## 자격증 (Certifications)
+## 🎓 Education & Training
 
-- **ADsP** (데이터분석 준전문가)
+| 기간 | 내용 | 비고 |
+|---|---|---|
+| ~2023 | **상명대학교** 컴퓨터과학 전공 (졸업) | 캡스톤 *Coin ATS* 🏆 |
+| — | **포스코 청년 AI·빅데이터 아카데미** 21기 수료 | 프로젝트 우수상 🏆 |
 
 ---
 
-<sub>본 이력서는 사이드 프로젝트·실무 경험을 바탕으로 AI 엔지니어 직무에 맞춰 작성되었습니다.</sub>
+## 🏆 Awards & Certifications
+
+| 구분 | 내용 |
+|---|---|
+| 🏆 수상 | **캡스톤디자인 경진대회 수상** — *Coin ATS* (Python + Upbit 암호화폐 자동매매, 상명대) |
+| 🏆 수상 | **프로젝트 우수상** — 포스코 청년 AI·빅데이터 아카데미 21기 수료 프로젝트 |
+| 📜 자격증 | **ADsP** (데이터분석 준전문가) |
+
+---
+
+<div align="center">
+<sub>이 이력서는 GitHub README로 작성되었습니다 · 모든 프로젝트는 공개 저장소에서 코드로 확인할 수 있습니다.</sub>
+</div>

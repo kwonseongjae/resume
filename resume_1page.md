@@ -1,6 +1,6 @@
 # 권성재 (Seongjae Kwon) — AI Engineer
 
-📧 kwonseongjae0314@gmail.com · 📱 [연락처] · github.com/kwonseongjae · jack-0314.tistory.com
+📧 kwonseongjae0314@gmail.com · github.com/kwonseongjae · jack-0314.tistory.com
 
 **연구에서 멈추지 않고 프로덕션까지 만드는 3년차 AI 엔지니어.** CV(SAM2 실시간 세그멘테이션)부터 LLM 기반 자동화 SaaS까지, AI 모델을 실제 제품에 통합하고 **안정적으로 운영**한 경험. 데모가 아니라 장애에 견디는 시스템을 만듭니다.
 
