@@ -4,8 +4,9 @@
 
 ### AI Engineer · AI 연구원
 
-**LLM 응용, 컴퓨터비전, 서비스 백엔드를 제품까지 연결하고 수치로 검증하는 AI 엔지니어**
-*LLM Applications · Computer Vision · Service Backend*
+**모델을 제품까지 연결하고 수치로 검증하는 AI 엔지니어**
+
+*LLM 응용 프로그램 · 컴퓨터비전 · 서비스 백엔드*
 
 <a href="mailto:kwonseongjae0314@gmail.com"><img src="https://img.shields.io/badge/Email-kwonseongjae0314@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/kwonseongjae"><img src="https://img.shields.io/badge/GitHub-kwonseongjae-181717?style=flat-square&logo=github&logoColor=white"/></a>
